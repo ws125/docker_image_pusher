@@ -1,4 +1,3 @@
 #支持私库
 #支持指定架构
-xiaoyaliu/alist:latest
-xhofe/alist:latest
+asdlokj1qpi23/subconverter:latest
