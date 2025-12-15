@@ -1,3 +1,3 @@
 #支持私库
 #支持指定架构
-https://github.com/ws125/docker_image_pusher
+TEI_IMAGE_CPU=infiniflow/text-embeddings-inference:cpu-latest
